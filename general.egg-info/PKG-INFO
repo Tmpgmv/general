@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: general
+Version: 0.4
+Summary: For reuse: const, mixins and utils.
+Home-page: UNKNOWN
+Author: Nonverbis
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: 3.2.3
+Classifier: Operating System :: Ubuntu
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8

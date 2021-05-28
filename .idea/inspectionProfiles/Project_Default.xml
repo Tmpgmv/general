@@ -1,0 +1,57 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="images" />
+            <item index="1" class="java.lang.String" itemvalue="selenium" />
+            <item index="2" class="java.lang.String" itemvalue="wheel" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E122" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="generals.models.GeneralSettings.objects" />
+          <option value="django.db.models.fields.related.ForeignKey.dir" />
+          <option value="django.db.models.fields.related.ForeignKey.id" />
+          <option value="django.db.models.fields.files.ImageField.url" />
+          <option value="django.db.models.fields.related.ForeignKey.fallback_ext" />
+          <option value="images.models.ResponsiveImage.objects" />
+          <option value="django.core.files.uploadedfile.InMemoryUploadedFile.width" />
+          <option value="django.core.files.uploadedfile.InMemoryUploadedFile.*" />
+          <option value="images.models.ResponsiveImageHistory.id" />
+          <option value="images.models.RasterImage.images_responsiveimage_related" />
+          <option value="django.db.models.fields.files.FileField.url" />
+          <option value="omnibus.utils.model_utils.UploadManager.get_image_upload_to" />
+          <option value="images.models" />
+          <option value="django.db.models.fields.files.FieldFile.width" />
+          <option value="django.db.models.fields.files.FieldFile.height" />
+          <option value="omnibus.model_mixins.general.ModelDiffMixin._meta" />
+          <option value="object.save" />
+          <option value="semantics.models.SemanticsLevelTwo.tmplts_semanticslevel2tmplt_related" />
+          <option value="clients.models.Branch.tmplts_branchtmplt_related" />
+          <option value="images.models.SvgFile._meta" />
+          <option value="django.core.checks.messages.add_message" />
+          <option value="images.models.SvgFile.objects" />
+          <option value="images.models.RasterImage.objects" />
+          <option value="images.models.Favicon.objects" />
+          <option value="str.file" />
+          <option value="str.subdir" />
+          <option value="str.alt" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
